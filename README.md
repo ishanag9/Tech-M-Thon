@@ -30,6 +30,7 @@ All The best!
 # Team Name: Coding Cult
 
 Member 1: Ishan Agrawal (https://github.com/ishanag9)
+
 Member 2: Chirag Srivastava (https://github.com/chiragsrvstv) 
 
 
@@ -37,5 +38,5 @@ Member 2: Chirag Srivastava (https://github.com/chiragsrvstv)
 
 This application is made with ReactNative and Firebase.
 
-![](screenshots.vid.mp4)
+![](screenshots/vid.mp4)
 
