@@ -1,3 +1,18 @@
+# Team Name: Coding Cult
+
+Member 1: Ishan Agrawal (https://github.com/ishanag9)
+
+Member 2: Chirag Srivastava (https://github.com/chiragsrvstv) 
+
+
+## useCase2: Lab Authenticator
+
+This application is made with ReactNative and Firebase.
+
+![Alt Text](https://media.giphy.com/media/iIMJMWdzCNnCjQxPTR/source.gif)
+
+
+
 # Tech-M-Thon
 Hackathon conducted by GLA University in association with Tech Mahindra.
 
@@ -26,17 +41,4 @@ Note:
 
 All The best!
 
-
-# Team Name: Coding Cult
-
-Member 1: Ishan Agrawal (https://github.com/ishanag9)
-
-Member 2: Chirag Srivastava (https://github.com/chiragsrvstv) 
-
-
-## useCase2: Lab Authenticator
-
-This application is made with ReactNative and Firebase.
-
-![](screenshots/vid.mp4)
 
