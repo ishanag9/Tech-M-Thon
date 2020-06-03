@@ -1,8 +1,8 @@
 # Team Name: Coding Cult
 
-Member 1: Ishan Agrawal (https://github.com/ishanag9)
+Member 1: Ishan Agrawal [Github](https://github.com/ishanag9)
 
-Member 2: Chirag Srivastava (https://github.com/chiragsrvstv) 
+Member 2: Chirag Srivastava [Github](https://github.com/chiragsrvstv) 
 
 
 ## useCase2: Lab Authenticator
